@@ -1,2 +1,2 @@
 # 1.0.0
-- Edit this file to change your mod's changelog.
+- First Release because i don't know how to fix the deprecations.
