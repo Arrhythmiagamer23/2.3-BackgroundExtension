@@ -1,5 +1,5 @@
 {
-	"geode": "5.8.2",
+	"geode": "5.11.2",
 	"early-load": true,
 	"gd": {
 		"win": "2.2081",
@@ -11,7 +11,7 @@
 	"name": "2point3 Backgrounds",
 	"version": "v1.0.0",
 	"developer": "ArrhythmiaGamer23",
-	"description": "Custom Patcher Found Dead In a Ditch. This is the Original Background Pack",
+	"description": "This was based on Custom Patcher.",
 	"dependencies": {
 		"geode.node-ids": {
 			"version": ">=v1.20.0",
